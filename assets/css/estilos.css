@@ -16,6 +16,10 @@ body {
   background-position: left;
   background-color: dimgrey;
 }
+#p-fondo{
+  
+  text-shadow: 3px 3px 2px black;
+}
 
 /* Mis trabajos */
 .image-top{
