@@ -10,10 +10,11 @@ body {
 /* Hero Section */
 
 #hero-section {
-  background-image: url("assets/img/cine_escolar_raul_Rosales.jpg");
+  background-image: url("/assets/img/cine_escolar.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  background-color: dimgrey;
 }
 
 /* Mis trabajos */
